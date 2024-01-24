@@ -9,7 +9,7 @@
 <body>
 
 	<center><h1>Welcome to the NEU Store</h1>
-	<h5>Place where you can buy different things for yourself others</h5><br></center>
+	<h5>Place where you can buy different things for yourself welcome others</h5><br></center>
 	<h3>Please login to continue ahead or if you are a new user kindly Sign Up by pressing the button below</h3>
 	<a href="user/register.htm"><input type="submit" value="Sign Up"></a><br/><br><br>
 
